@@ -2053,3 +2053,5 @@ Gayathri Kakumanu
 - [futaba3](https://github.com/futaba3)
 -  [Anjan Punith](https://github.com/anjan0546)
 - [Jiahang Liu](https://github.com/LJH-apk)
+- [Shruti Kumari](https://github.com/fabshruti08)
+
